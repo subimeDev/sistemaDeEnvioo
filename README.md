@@ -15,7 +15,7 @@ Este proyecto en java permite gestionar de envios de paquetes mediante una conso
 
 ## Patrones de diseño utilizados 
 
-**Singleton GestorEnvios asegurando una única instancia 
+**Singleton** GestorEnvios asegurando una única instancia 
 **Prototype** Envio Permite clonar envíos 
 **Iterator** IteradorEnvios Recorre la lista de envíos sin exponer su estructura
 **Adapter (simulado)** ImpordorDeEnvios simula una fuente externa de datos 
