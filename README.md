@@ -1,5 +1,5 @@
 
-## Sistem de gestión de envios 
+## Sistema de gestión de envios 
 
 Este proyecto en java permite gestionar de envios de paquetes mediante una consola interactiva.
 
